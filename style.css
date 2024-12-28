@@ -19,8 +19,35 @@ body {
     margin-top: -10px;
 }
 
+#request-btn {
+    margin-left: auto;
+}
+
+#fundingForm {
+    display:none;
+    background-color: lightblue;
+    margin: 2%;
+    justify-content: center;
+    align-items: center;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+#fundingForm form div {
+    margin-top: 10px;
+}
+
+#fundingForm form div button {
+    height: 90%;
+    width: 50%;
+}
+
 .stats-container {
     display: flex;
+}
+.stats-container:hover{
+    cursor:pointer;
+    box-shadow: 30 30px lightblue;
 }
 
 .stats-card {

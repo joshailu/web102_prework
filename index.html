@@ -11,6 +11,27 @@
     <div class="header">
         <img id="tentacles" src="assets/tentacles.png">
         <h1 class="header-text">Sea Monster Crowdfunding</h1>
+        <button id="request-btn">Request Funding!</button>
+    </div>
+
+    <div id="fundingForm">
+        <form method="post">
+            <label for="gtitle">Title:</label><br>
+            <input type="text" id="gtitle" name="gtitle" required><br>
+            <br>
+            <label for="gdesc">Description:</label><br>
+            <input type="text" id="gdesc" name="gdesc" required><br>
+            <br>
+            <label for="ggoal">Goal:</label><br>
+            <input type="number" id="ggoal" name="ggoal" required><br>
+            <br>
+            <label for="gimg">Image:</label><br>
+            <input type="file" id="gimg" name="gimg" required><br>
+            <div>
+                <button id="submit-btn" type="submit">Submit</button>
+                <button id="cancel-btn" type="reset">Cancel</button>
+            </div>
+        </form>    
     </div>
 
     <!-- background info about company -->

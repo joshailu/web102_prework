@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SMC Online*
 
-Submitted by: **Your Name Here**
+Submitted by: **Josabeth Hailu**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SMC Online** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5.5** hours spent in total
 
 ## Required Features
 
@@ -17,28 +17,24 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] The navigation bar includes a button for funding requests. Clicking it will open a form to submit information about what game you would like Sea Monster Crowdfunding to help fund.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/10wuf2o' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Snipping Tool and CloudConvert.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered while implementing my new feature was styling and manipulating the page using Javascript. Functions in Javascript also work quite differently, so it was a great learning experience to do the hands-on challenges. Specifically, the arrow functions and the simplification of certain algorithms with functions like reduce() and filter() were quite helpful to learn.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Josabeth Hailu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
